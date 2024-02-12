@@ -33,7 +33,7 @@ She pulls out some reference documents, finds Misgan. He hasn't been going to cl
 Off we go to the engineering department. This faculty is inside of a small basement, kinda dark, very annoyed-looking guy sitting at the counter.
 Counterguy: what do you want?
 Haskell: we're looking for the guy who was working on the art faculty's blood fountain.
-Counterguy: annoyed about the fountain. looks through docs, finds: one Adrian Fonbram, studying engineering and fleshsmithing (double major), also has a small business in the city: "deliveries", called Squirrel and Quarrel. hasn't been seen since he started working on the fountain. doesn't have his home address but does have his business address. Asks us to tell Adrian to come back and do some real engineering instead of this art nonsense.
+Counterguy: annoyed about the fountain. looks through docs, finds: one Adrian von Brahm, studying engineering and fleshsmithing (double major), also has a small business in the city: "deliveries", called Squirrel and Quarrel. hasn't been seen since he started working on the fountain. doesn't have his home address but does have his business address. Asks us to tell Adrian to come back and do some real engineering instead of this art nonsense.
 
 We decide to check out Misgan's apartment first, since it's closer. The apartment block is actually quite nice; fenced in by a special purpose-made thorny plant, doors open though. Guard looks at us to make sure we don't make trouble, but doesn't stop us. Haskell knocks on the door. Most of us notice a sudden quiet; there was a shuffling noise, before.
 Haskell knocks on the door again, hard: put on your pants! we need to talk to you.
@@ -129,10 +129,10 @@ Bendren takes a brain beast with him for potential later study. Haskell does too
 Bendren drops a 2⋄ heal on Yala, 18 healing her back to full. We then head to the Squirrel & Quarrel. Nobody seems to question our slightly suspicious actions.
 
 It takes us a bit to actually find the S&Q office - it's not on the ground floor, but in the basement, and the door just has an unobtrusive sign and a post box.
-paper: closed temporarily. if you need me, find me at university. signed, Adrian Fonbram.
+paper: closed temporarily. if you need me, find me at university. signed, Adrian von Brahm.
 look inside, two rooms: entryway, office. some desks, some papers lying around. very minimal. nobody inside. We try the key: it's too big.
 
-We have a moment of thought about the law, as we consider breaking into this office. By the books, it's clearly illegal - we have no writ, warrant, or anything of the sort, nor permission from the owner/renter/??. However in practice the only people who would give a shit are Adrian Fonbarm, or someone he paid for protection. There are no signs of such protection and there usually would be, prominent ones. So Haskell kicks in the glass on a window, and pushes his familiar inside.
+We have a moment of thought about the law, as we consider breaking into this office. By the books, it's clearly illegal - we have no writ, warrant, or anything of the sort, nor permission from the owner/renter/??. However in practice the only people who would give a shit are Adrian von Brahm, or someone he paid for protection. There are no signs of such protection and there usually would be, prominent ones. So Haskell kicks in the glass on a window, and pushes his familiar inside.
 
 The mudroom has a shoe rack, a coatrack, a doormat saying "Fleshsmithing rules!". His familiar opens the door from inside, and we enter. The other room has a single desk and piles of papers, which we search.
 
