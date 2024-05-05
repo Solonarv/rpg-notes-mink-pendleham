@@ -106,7 +106,6 @@ It's a little alleyway, ends at back of warehouse, someone has been sleeping the
 
 Bendren notices that the order is disrupted, the sleeping bag disrupted: a bit of blood inside. something pulled the sleeper out and moved them somewhere. He spots scratches on the warehouse wall nearby, indicating something probably climbed up there.
 
-
 Yala climbs up, with no skill and a few falls (which leave her unharmed), then ties a rope to a rain cistern so the rest can follow her without risk of falling.
 
 The roof is mostly flat, broken up by rainwater collectors. Bendren easily reads the monster's trail: back down to the ground, along a street, eventually reaching a sewer grate.
