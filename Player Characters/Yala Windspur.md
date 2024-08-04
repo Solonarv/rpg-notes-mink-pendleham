@@ -34,7 +34,7 @@ Rank 2 spells:
 +entangling flora
 +invisibility
 ### Level 4
-Skill feat: recognize spell
+Skill feat: recognize spell // streetwise
 Class feat: counterspell
 Archetype: Contortionist
 ### Level 5

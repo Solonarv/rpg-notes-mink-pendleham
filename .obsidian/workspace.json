@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "faf1341d497e2850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Logs/Session 10.md",
+                "file": "Session 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Logs/Session 10.md",
+                "file": "Session 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Logs/Session 10.md"
+                "file": "Session 11.md"
               }
             }
           }
@@ -171,16 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c04e84ef51ca00d",
+  "active": "faf1341d497e2850",
   "lastOpenFiles": [
+    "Player Characters/Yala Windspur.md",
+    "Session 11.md",
+    "Session Logs/Session 10.md",
     "Session Logs/Session 07.md",
     "Session Logs/Session 06.md",
     "Session Logs/Session 04.md",
-    "Session Logs/Session 10.md",
     "Session Logs/Session 08.md",
     "Session Logs/Session 09.md",
     "Session Logs/Session 05.md",
-    "Player Characters/Yala Windspur.md",
     "Session Logs/Session 03.md",
     "Untitled",
     "Session Logs/Session 01.md",
