@@ -33,8 +33,10 @@ Rank 2 spells:
 +dispel magic
 +entangling flora
 +invisibility
+
++water breathing (copied)
 ### Level 4
-Skill feat: recognize spell // streetwise
+Skill feat: ~~streetwise~~ magical crafting (!!)
 Class feat: counterspell
 Archetype: Contortionist
 ### Level 5
@@ -45,6 +47,8 @@ Ability boosts -> dex con int wis
 Rank 3 spells:
 the good shit
 ### Level 6
+Skill feat: recognize spell
+Class feat: ? steady spellcasting ?
 Archetype: dodge away
 ### Level 7
 General feat: 
