@@ -54,7 +54,7 @@ There's some kind of green sludgy liquid dripping from the ceiling that's also e
 She jumps across to the central island (which is full of machinery, and ). A small object flies at her face, like an alchemical bomb. Initiative!
 
 - green cloak: the bomb hits; explodes; produces a strong rush of air that would've knocked her over, but she kept her footing. Another bomb comes flying, and misses. The thrower disappears into a small hatch leading to a ventilation pipe.
-- Haskell: stride through the acid, eating (reflex success) 13/2=6 acid damage; as he steps on the end of the walkway, part of it shears off, and a pipe spurts out a burst of blood; reflex success 10/2=5 bludg damage, and he keeps his footing. He leaps across the gap to join Yala, and falls on his ass. Then he 
+- Haskell: stride through the acid, eating (reflex success) 13/2=6 acid damage; as he steps on the end of the walkway, part of it shears off, and a pipe spurts out a burst of blood; reflex success 10/2=5 bludg damage, and he keeps his footing. He leaps across the gap to join Yala, and falls on his ass.
 - Yala: reposition. protective wards. raise shield.
 - Bendren: move. extend steely feathers. do nothing.
 - Artur: take out bedroll to protect head from acid. stride through acid; reflex success, 5/2=2 damage, poor bedroll we hardly knew ye. He leaps across onto the central island, and lands on his feet.
