@@ -41,11 +41,11 @@ Class feat: counterspell
 Archetype: Contortionist
 ### Level 5
 Ancestry feat: elven instincts
-Skill increase -> secondary
-Ability boosts -> dex con int wis
+Skill increase -> secondary (diplomacy expert), retrain nature->diplomacy
+Ability boosts -> dex con int cha (for socials)
 
 Rank 3 spells:
-the good shit
+- veil of privacy (school spell)
 ### Level 6
 Skill feat: recognize spell
 Class feat: ? steady spellcasting ?
