@@ -105,9 +105,9 @@ As we step out the doors, we hear several explosions. the neighborhood has many 
 
 We notice several of these sick people sniffing at us, their eyes glaze over and their looks become decisively bad. The guy Yala was carrying starts snarling at her, looking like a bite risk.
 
-every layed is 15ft up, yellow is the top.
+every layer is 15ft up, yellow is the top.
 
-disease exposure tracker:
+initial disease exposure:
 - Yala 1/?
 - Artur 1/?
 - Haskell 1/?

@@ -48,17 +48,20 @@ Rank 3 spells:
 - veil of privacy (school spell)
 ### Level 6
 Skill feat: recognize spell
-Class feat: ? steady spellcasting ?
+Class feat: psychic dedication -> unbound step -> warp step
 Archetype: dodge away
+
+Focus pool grows to 2
 ### Level 7
 General feat: 
 Skill increase -> arcana
-### Level 8
-Class feat: advanced school spell -> rune of observation
-Archetype: Psychic dedication -> unbound step -> warp step
-Skill feat: quick recognition
 
-Focus pool grows to 2
+important: this is where amp warp step becomes a teleport!
+### Level 8
+retrain lvl6 class feat -> steady spellcasting? something else?
+Archetype: psychic dedication (same as prior lvl6 class feat, just moving things around)
+Class feat: advanced school spell -> rune of observation
+Skill feat: quick recognition
 ### Level 9
 Ancestry feat: wings of air
 Skill increase -> secondary
