@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Logs/Case 08 - plague/Session 20.md",
+                "file": "Session Logs/Case 06 - ferrets/Session 14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 20"
+              "title": "Session 14"
             }
           },
           {
@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Logs/Case 08 - plague/Session 21.md",
+                "file": "Session Logs/Case 08 - plague/Session 23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 21"
+              "title": "Session 23"
             }
           },
           {
@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Logs/Case 08 - plague/Session 22.md",
+                "file": "Session Logs/Case 09 - quarantine/Session 24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 22"
+              "title": "Session 24"
             }
           }
         ],
@@ -264,29 +264,31 @@
   },
   "active": "5b79cc31d96e5e62",
   "lastOpenFiles": [
-    "Session 23.md",
     "Session Logs/Case 08 - plague/Session 23.md",
-    "Session Logs/Case 08 - plague/Session 20.md",
-    "Session Logs/Case 08 - plague/Session 22.md",
-    "Session Logs/Case 08 - plague/Session 21.md",
-    "Player Characters/Yala Windspur.md",
-    "Session Logs/Case 07 - teufelbos/Session 19.md",
-    "Session Logs/The Sickness/Untitled",
-    "Session Logs/Case 07 - teufelbos/Session 16.md",
-    "Session Logs/Case 07 - teufelbos",
+    "Session Logs/Case 09 - quarantine/Session 24.md",
     "Session Logs/Case 06 - ferrets/Session 14.md",
-    "Session Logs/Case 06 - ferrets/Session 15.md",
-    "Session Logs/Case 06 - ferrets/Session 13.md",
-    "Session Logs/Case 06 - ferrets",
-    "Session Logs/Case 05 - frog",
+    "Session Logs/Case 04 - heist/Session 07.md",
+    "Session Logs/Case 04 - heist/Session 08.md",
+    "Session Logs/Case 04 - heist/Session 09.md",
     "Session Logs/Case 05 - frog/Session 12.md",
     "Session Logs/Case 05 - frog/Session 11.md",
     "Session Logs/Case 05 - frog/Session 10.md",
-    "Session Logs/Case 07 - teufelbos/Session 17.md",
+    "Session Logs/Case 06 - ferrets/Session 15.md",
+    "Session Logs/Case 07 - teufelbos/Session 19.md",
     "Session Logs/Case 07 - teufelbos/Session 18.md",
-    "Session Logs/Case 04 - heist/Session 09.md",
-    "Session Logs/Case 04 - heist/Session 08.md",
-    "Session Logs/Case 04 - heist/Session 07.md",
+    "Session Logs/Case 07 - teufelbos/Session 17.md",
+    "Session Logs/Case 07 - teufelbos/Session 16.md",
+    "Session Logs/Case 08 - plague/Session 21.md",
+    "Session Logs/Case 08 - plague/Session 20.md",
+    "Session Logs/Case 08 - plague/Session 22.md",
+    "Session Logs/Case 09 - quarantine",
+    "Session 23.md",
+    "Player Characters/Yala Windspur.md",
+    "Session Logs/The Sickness/Untitled",
+    "Session Logs/Case 07 - teufelbos",
+    "Session Logs/Case 06 - ferrets/Session 13.md",
+    "Session Logs/Case 06 - ferrets",
+    "Session Logs/Case 05 - frog",
     "Session Logs/Case 04 - heist",
     "Session Logs/Case 03 - snatcher/Session 06.md",
     "Session Logs/Case 03 - snatcher",
@@ -297,8 +299,6 @@
     "Session Logs/Case 01 - madrian/Session 01.md",
     "Session Logs/Case 01 - madrian",
     "Session Logs/Session 00.md",
-    "Session Logs/Case 01 - madrian/Session 02.md",
-    "Session Logs/Case 08 - plague",
-    "Untitled"
+    "Session Logs/Case 08 - plague"
   ]
 }
